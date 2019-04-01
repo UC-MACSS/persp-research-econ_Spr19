@@ -39,3 +39,15 @@
 * Manage your time during the presentation
 * Don't spend too much time on the literature
 * Answer questions but don't get derailed
+
+
+## How to come up with a good project
+
+* What topic areas are you interested in?
+    * Read the most current articles.
+* Extend one of those papers in a small way.
+    * New data
+    * New population
+    * Question about different part of the data
+    * New/better methods
+* Talk to faculty.

@@ -4,7 +4,7 @@
 |--------------|--------------------------------------------------------------|----------------------------------------------------|
 | Email | rwevans@uchicago.edu | zunda@uchicago.edu |
 | Office | 208 McGiffert House |                    |
-| Office Hours | M 3:00-5:0pm | TBA |
+| Office Hours | M 3:00-5:00pm | TBA |
 | GitHub | [rickecon](https://github.com/rickecon) | [zundaxu](https://github.com/zundaxu) |
 
 * **Meeting day/time**: MW 1:30-2:50pm, Saieh Hall, Room 242
@@ -78,9 +78,9 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May  1 | W | Workshop papers/office visits |  |  |
 | May  6 | M | Dynamic programming with interpolation | Notes | PS2 |
 | May  8 | W | Dynamic programming with interpolation |       |     |
-| May 13 | M | Overlapping generations models | Notes  | PS3 |
-| May 15 | W | Overlapping generations models |  |   |
-| May 20 | M | Workshop papers/office visits |  |  |
+| May 13 | M | Overlapping generations models | Notes  |  |
+| May 15 | W | Overlapping generations models |  | Methods/initial results section |
+| May 20 | M | Workshop papers/office visits |  | PS3 |
 | May 22 | W | Effective presentations, poster,slides | Notes |  |
 | May 27 | M | **No class (Memorial Day Holiday)** |  |  |
 | May 29 | W | Markov and hidden Markov models | Notes |  |

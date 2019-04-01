@@ -18,20 +18,20 @@ This course focuses on applying computational methods to conducting social scien
 
 ## Grades
 
-|     Assignment              | Points | Quantity | Total points |
-|-----------------------------|--------|----------|--------------|
-| Proposal                    |    10  |      1   |        10    |
-| Literature review           |    15  |      1   |        15    |
-| Methods/initial results     |    15  |      1   |        15    |
-| Peer evaluations of posters |     2  |      5   |        10    |
-| Poster presentation         |    30  |      1   |        30    |
-| Final paper                 |    40  |      1   |        40    |
-| Problem set                 |    10  |      4   |        40    |
-| **Total Points**            |        |          |       160    |
+|     Assignment              | Points | Quantity | Total points | Percent |
+|-----------------------------|--------|----------|--------------|---------|
+| Proposal                    |    10  |      1   |        10    |   6.2%  |
+| Literature review           |    15  |      1   |        15    |   9.4%  |
+| Methods/initial results     |    15  |      1   |        15    |   9.4%  |
+| Peer evaluations of posters |     2  |      5   |        10    |   6.2%  |
+| Poster presentation         |    30  |      1   |        30    |  18.8%  |
+| Final paper                 |    40  |      1   |        40    |  25.0%  |
+| Problem sets                |    10  |      4   |        40    |  25.0%  |
+| **Total Points**            |        |          |       160    | 100.0%  |
 
-Students will turn assignments in via their own public GitHub repository named `MACS30250proj`. The directory structure of this repository should be the following.
+Students will turn assignments in via their own public GitHub fork of the main class repository (e.g., `https://github.com/YourGitHubHandle/persp-research-econ_Spr19`). The directory structure of this repository should be the following.
 
-* `github.com/YourGithubHandle/MACS30250proj`
+* `github.com/YourGithubHandle/persp-research-econ_Spr19/`
   * ProblemSets
     * PS1
     * PS2
@@ -69,7 +69,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr  1 | M | Overview/reproducibility in science | Slides |  |
 | Apr  3 | W | Abstract/intro/conclusion | Slides |  |
 | Apr  8 | M | Theory section of paper | Slides |  |
-| Apr 10 | W | Proposal presentations |  | [Proposal slides & present]() |
+| Apr 10 | W | Proposal presentations |  | [Proposal slides & present](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/project-proposal.md) |
 | Apr 15 | M | Data/methods section of paper | Slides |  |
 | Apr 17 | W | Computational results section of paper | Slides |  |
 | Apr 22 | M | Kernel density estimation | Notes | PS1 |

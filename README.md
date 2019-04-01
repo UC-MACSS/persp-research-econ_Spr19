@@ -78,14 +78,14 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May  1 | W | Workshop papers/office visits |  |  |
 | May  6 | M | Dynamic programming with interpolation | Notes | PS2 |
 | May  8 | W | Dynamic programming with interpolation |       |     |
-| May 13 | M | Overlapping generations models | Notes  |  |
-| May 15 | W | Overlapping generations models |  | Methods/initial results section |
-| May 20 | M | Workshop papers/office visits |  | PS3 |
-| May 22 | W | Effective presentations, poster,slides | Notes |  |
+| May 13 | M | Overlapping generations models | Notes  | PS3 |
+| May 15 | W | Overlapping generations models |  |  |
+| May 20 | M | Workshop papers/office visits |  |  |
+| May 22 | W | Effective presentations, poster,slides | Notes | Methods/initial results section |
 | May 27 | M | **No class (Memorial Day Holiday)** |  |  |
-| May 29 | W | Markov and hidden Markov models | Notes |  |
+| May 29 | W | Markov and hidden Markov models | Notes | PS 4 |
 | Jun  3 | M | Markov and hidden Markov models |  |  |
-| Jun  5 | W | In-class poster presentations |  | Poster, PS 4 |
+| Jun  5 | W | In-class poster presentations |  | Poster |
 | Jun  9 | Su | Final papers due at 11:59pm |  | Papers due |
 
 

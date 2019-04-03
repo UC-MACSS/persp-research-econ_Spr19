@@ -67,7 +67,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Date | Day | Topic | Reading | Assignment |
 |------|-----|-------|---------|------------|
 | Apr  1 | M | Overview/reproducibility in science | [Slides](slides/Reprod_slides.pdf) |  |
-| Apr  3 | W | Abstract/intro/conclusion | Slides |  |
+| Apr  3 | W | Abstract/intro/conclusion | [Slides](slides/IntroAbsConcl_slides.pdf) |  |
 | Apr  8 | M | Theory section of paper | Slides |  |
 | Apr 10 | W | Proposal presentations |  | [Proposal slides & present](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/project-proposal.md) |
 | Apr 15 | M | Data/methods section of paper | Slides |  |

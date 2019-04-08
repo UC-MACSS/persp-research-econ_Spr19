@@ -14,6 +14,8 @@
         * Maybe give a preliminary figure/plot/table
     * What theory will you use to interpret the data?
     * What analyses and computational tools will you use?
+3. What do you think your answer might be?
+    * What are the potential channels and alternatives?
 
 
 ## Proposal format
@@ -21,6 +23,7 @@
 1. You should prepare a [5 minute quasi-Ignite-style presentation](http://www.ignitetalks.io/) using slides
     * Exactly **10 slides, auto-advancing every 30 seconds**
     * Use any software you want to generate the slides **as long as you include a PDF version**
+    * Here is a [LaTeX slides template]() you can use if you wish.
 2. Push your slides to your project repository on your GitHub fork in the `Proposal` folder no later than 11:59pm, Tuesday, April 9.
 3. You will present your proposal with slides in class on Wednesday, April 10.
 

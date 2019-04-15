@@ -74,7 +74,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 17 | W | Computational results section of paper | Slides |  |
 | Apr 22 | M | Kernel density estimation | Notes | PS1 |
 | Apr 24 | W | Parallel computing | Notes |  |
-| Apr 29 | M | Parallel computing | Notes | Literature review section |
+| Apr 29 | M | Parallel computing | Notes | [Literature review section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/lit-review.md) |
 | May  1 | W | Workshop papers/office visits |  |  |
 | May  6 | M | Dynamic programming with interpolation | Notes | PS2 |
 | May  8 | W | Dynamic programming with interpolation |       |     |

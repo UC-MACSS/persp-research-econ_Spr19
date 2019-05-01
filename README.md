@@ -76,7 +76,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 24 | W | Parallel computing | [Notebk](Notebooks/Parallel/parallel.ipynb) |  |
 | Apr 29 | M |  |  | [Literature review section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/lit-review.md) |
 | May  1 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) |  |
-| May  6 | M | Workshop papers/office visits | [Schedule]() |  |
+| May  6 | M | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) |  |
 | May  8 | W | Dynamic programming with interpolation | Notes | PS2 |
 | May 13 | M | Dynamic programming with interpolation |  |  |
 | May 15 | W | Overlapping generations models | Notes | PS3 |

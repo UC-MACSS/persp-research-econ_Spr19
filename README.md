@@ -74,17 +74,17 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 17 | W | Computational results section of paper | [Slides](Slides/ResultsSection_slides.pdf) |  |
 | Apr 22 | M | Kernel density estimation | [Notebk](Notebooks/KDE/KDE.ipynb) | [PS1](Assignments/PS1/PS1.pdf) |
 | Apr 24 | W | Parallel computing | [Notebk](Notebooks/Parallel/parallel.ipynb) |  |
-| Apr 29 | M | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) | [Literature review section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/lit-review.md) |
-| May  1 | W | Workshop papers/office visits |  |  |
-| May  6 | M | Dynamic programming with interpolation | Notes | PS2 |
-| May  8 | W | Dynamic programming with interpolation |       |     |
-| May 13 | M | Overlapping generations models | Notes  | PS3 |
-| May 15 | W | Overlapping generations models |  |  |
-| May 20 | M | Workshop papers/office visits |  |  |
-| May 22 | W | Effective presentations, poster,slides | Notes | Methods/initial results section |
+| Apr 29 | M |  |  | [Literature review section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/lit-review.md) |
+| May  1 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) |  |
+| May  6 | M | Workshop papers/office visits | [Schedule]() |  |
+| May  8 | W | Dynamic programming with interpolation | Notes | PS2 |
+| May 13 | M | Dynamic programming with interpolation |  |  |
+| May 15 | W | Overlapping generations models | Notes | PS3 |
+| May 20 | M | Overlapping generations models |  |  |
+| May 22 | W | Workshop papers/office visits |   | Methods/initial results section |
 | May 27 | M | **No class (Memorial Day Holiday)** |  |  |
-| May 29 | W | Markov and hidden Markov models | Notes | PS 4 |
-| Jun  3 | M | Markov and hidden Markov models |  |  |
+| May 29 | W | Effective presentations, poster,slides | Notes  |  |
+| Jun  3 | M | Markov and hidden Markov models | Notes | PS 4 |
 | Jun  5 | W | In-class poster presentations |  | Poster |
 | Jun  9 | Su | Final papers due at 11:59pm |  | Papers due |
 

@@ -6,23 +6,23 @@ This page lists the time slots available and scheduled for the two sessions of o
 
 ## Monday, May 6 Project Consultation Sign-up
 
-| Time  | Students        |
-|-------|-----------------|
-| 1:30p |  |
-| 1:40p |  |
+| Time  | Students             |
+|-------|----------------------|
+| 1:30p | Keertana Chidambaran |
+| 1:40p | Li Liu               |
 | 1:50p |  |
 | 2:00p |  |
-| 2:10p |  |
-| 2:20p |  |
-| 2:30p |  |
-| 2:40p |  |
-| 2:50p |  |
-| 3:00p |  |
-| 3:10p |  |
-| 3:20p |  |
-| 3:30p |  |
-| 3:40p |  |
-| 3:50p |  |
-| 4:00p |  |
-| 4:10p |  |
-| 4:20p |  |
+| 2:10p | Fulin Guo            |
+| 2:20p | Zeyu Xu              |
+| 2:30p | Nan Ge               |
+| 2:40p | Mike Peng            |
+| 2:50p | Ying Sun             |
+| 3:00p | Ruixi Li             |
+| 3:10p | Dongcheng Yang       |
+| 3:20p | Sixue Liu            |
+| 3:30p | Haowen Shang         |
+| 3:40p | Boyang Qu            |
+| 3:50p |                      |
+| 4:00p | Junho Choi           |
+| 4:10p | Tianxin Zheng        |
+| 4:20p |                      |

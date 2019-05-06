@@ -10,7 +10,7 @@ This page lists the time slots available and scheduled for the two sessions of o
 |-------|----------------------|
 | 1:30p | Keertana Chidambaran |
 | 1:40p | Li Liu               |
-| 1:50p |                      |
+| 1:50p | Junho Choi           |
 | 2:00p | Tianxin Zheng        |
 | 2:10p | Fulin Guo            |
 | 2:20p | Zeyu Xu              |
@@ -23,6 +23,4 @@ This page lists the time slots available and scheduled for the two sessions of o
 | 3:30p | Haowen Shang         |
 | 3:40p | Boyang Qu            |
 | 3:50p | Sergio Servan        |
-| 4:00p | Junho Choi           |
-| 4:10p |                      |
-| 4:20p |                      |
+| 4:00p |                      |

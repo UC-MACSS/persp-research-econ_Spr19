@@ -23,4 +23,4 @@ This page lists the time slots available and scheduled for the two sessions of o
 | 3:30p | Haowen Shang         |
 | 3:40p | Boyang Qu            |
 | 3:50p | Sergio Servan        |
-| 4:00p |                      |
+| 4:00p | Nipun Thakurele      |

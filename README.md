@@ -1,6 +1,6 @@
 # MACS 30250 - Perspectives on Computational Research in Economics (Spring 2019)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TA: [Zunda (Winston) Xu)](https://github.com/zundaxu) |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TA: [Zunda (Winston) Xu](https://github.com/zundaxu) |
 |--------------|--------------------------------------------------------------|----------------------------------------------------|
 | Email | rwevans@uchicago.edu | zunda@uchicago.edu |
 | Office | 208 McGiffert House |                    |

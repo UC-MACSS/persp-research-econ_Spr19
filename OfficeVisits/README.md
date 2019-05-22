@@ -7,17 +7,17 @@ For the Wednesday, May 22 visits, your participation is optional. You may sign u
 
 ## Wednesday, May 22 Project Consultation Sign-up
 
-| Time  | Students             |
-|-------|----------------------|
-| 1:30p | Li Liu |
-| 1:45p |  |
-| 2:00p | Haowen Shang |
-| 2:15p |  |
-| 2:30p |  |
-| 2:45p | Mike Peng |
-| 3:00p |  |
-| 3:15p | Junho Choi |
-| 3:30p |  |
+| Time  | Students      |
+|-------|---------------|
+| 1:30p | Li Liu        |
+| 1:45p |               |
+| 2:00p | Haowen Shang  |
+| 2:15p | Ruixi Li      |
+| 2:30p | Zeyu Xu       |
+| 2:45p | Mike Peng     |
+| 3:00p |               |
+| 3:15p | Junho Choi    |
+| 3:30p | Doncheng Yang |
 
 For the May 6 visits, all class members' participation is highly encouraged. You will have 10 minutes to discuss your progress and any issues with your papers. If you need extra help, you can schedule further consultation directly.
 

@@ -1,56 +1,98 @@
-# Project Proposal (10 points)
+# Project Poster (30 points)
 
-**Produce a research question and proposal for your term project using a computational social science research design**
+**Create and have printed a 36 inch by 48 inch (portrait or landscape) poster describing your research project. PDF must be uploaded to your repository by 1:30p on Monday, June 3.**
 
+You will present your poster during the MACSS poster session on Wednesday, June 5, from 12:30-2:30pm in Ida Noyes Hall.
 
-## Elements of a project proposal
-
-1. Clearly state a research question
-    * Maybe give a few citations (not a full literature review)
-    * Give a little information about why it is interesting
-    * Give a little information about what your contribution will be
-2. Describe how you will answer that question
-    * What data will you use?
-        * Maybe give a preliminary figure/plot/table
-    * What theory will you use to interpret the data?
-    * What analyses and computational tools will you use?
-3. What do you think your answer might be?
-    * What are the potential channels and alternatives?
-
-
-## Proposal format
-
-1. You should prepare a [5 minute quasi-Ignite-style presentation](http://www.ignitetalks.io/) using slides
-    * Exactly **10 slides, auto-advancing every 30 seconds**
-    * Use any software you want to generate the slides **as long as you include a PDF version**
-    * Here is a [LaTeX slides template](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/templates/LaTeXslides_template.tex) you can use if you wish.
-2. Push your slides to your project repository on your GitHub fork in the `Proposal` folder no later than 11:59pm, Tuesday, April 9.
-3. You will present your proposal with slides in class on Wednesday, April 10.
+## Grading rubric
+1. Overall design/layout (10 points)
+    * Clarity
+    * Organization
+    * Structure/flow
+    * Use of color
+    * Parsimony and efficiency of language
+2. Visualization (10 points)
+    * Figures
+    * Tables
+3. Content (10 points)
+    * What is the research question?
+    * What is the answer to the research question?
+    * How did you answer the research question?
+    * How strong is the evidence?
 
 
-## Things to watch out for
+## Research poster templates
+* Powerpoint
+    * [UChicago template](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/templates/E-Poster%20Template%20Academic%20conference.ppt)
+    * [Poster Presentations templates](https://www.posterpresentations.com/free-poster-templates.html)
+* LaTeX
+    * [LaTeX poster template](http://www.brian-amberg.de/uni/poster/)
+    * [beamerposter](https://github.com/deselaers/latex-beamerposter)
+* R Markdown
+    * [flexdashboard poster](https://github.com/odeleongt/flexdashboard-poster)
+    * [drposter](https://github.com/bbucior/drposter)
+* Other
+    * [Duke Econ poster templates](https://econ.duke.edu/node/17399)
 
-* State your research question clearly
-    * Usually a narrower scope is better
-    * Title should refer to a question
-* Make sure to use a computationally-enhanced research design
-    * This could involve computational elements for data collection or statistical learning methods
-    * This could involve running a digital survey or experiment or simulation
-    * What you should not prepare - a basic OLS/logistic regression model reevaluating a commonly used observational data set. Do something more computationally cutting edge.
-* **Make sure you can get the data**
-* If you have a title slide, know that we will spend 30 seconds there
-* Manage your time during the presentation
-* Don't spend too much time on the literature
-* Answer questions but don't get derailed
+## Steps to print poster
+1. Use your template to render your poster as a PDF.
+2. Proof-read the poster for typos or weird visual issues.
+3. Give the electronic file to the printer
+4. Your poster does NOT need to be laminated, and does NOT need to have foam core backing. We will provide the core backing when you present your poster.
+
+## Where to print the poster
+* John Crerar Library, [PSD Graphic Arts](http://graphicarts.uchicago.edu/)
+    * Around $85 for a 36 x 48 inch non-laminated poster
+    * 24 hour turnaround
+    * Cash or check only
+* Fedex Office at 1315 E 57th St.
+    * $87 for 36 x 48 inch non-laminated poster
+    * 24 hour turnaround
+* Unfortunately, the Booth printing shop is no longer
 
 
-## How to come up with a good project
+## Goal of a research poster
+* Show people what is in your paper.
+* Every poster must include the:
+    * Paper title
+    * Paper author and contact information
+    * Date
+* From the content section of the grading rubric above, your poster should clearly state:
+    * the research question
+    * the answer to the research question
+    * your methods to answering the research question
+    * an indication about how strong the evidence is
+* Helpful tips
+    * Don't reproduce the paper
+    * Keep the words to a minimum
+    * Choose your words carefully (informative phrases)
+    * Have a logical flow
+    * Make the font size and font style and text placement legible
+    * Visualize your results
+* What do you want the reader of and listener to your poster to come away with?
 
-* What topic areas are you interested in?
-    * Read the most current articles.
-* Extend one of those papers in a small way.
-    * New data
-    * New population
-    * Question about different part of the data
-    * New/better methods
-* Talk to faculty.
+## Optional poster attributes
+* Literature cited (not optional if you cite things on the poster)
+* Acknowledgments
+
+
+## What not to do with a poster
+* Full abstract
+* Verbatim text
+
+
+## How to present your poster (on Wed., June 5)
+* Stand by your research (and by your poster)
+* In a poster presentation, you are having an exchange with your listener/visitor.
+* Start slow, then gauge where your listener/visitor's interests are.
+* What do you want them to come away with? What did they actually come away with?
+* Don't read from your poster.
+* Behave professionally (and dress professionally)
+
+
+## Examples of scientific posters
+* Bad poster: "[Pigs in Space...](https://i.pinimg.com/originals/18/1a/6c/181a6cd948f5f0ac02bdd0509db90779.jpg)"
+* Good poster: Soltoff, "[Do Decisions Follow Dollars?](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/templates/poster-example-1.pdf)"
+* Good poster: Soltoff, "[A Matched Case Analysis...](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/templates/poster-example-2.pdf)"
+* Good and bad examples, [Duke Econ poster page](https://econ.duke.edu/node/17399)
+* [AEA 2017 poster session](https://www.aeaweb.org/conference/2017/preliminary/2124)

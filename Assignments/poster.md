@@ -1,6 +1,6 @@
 # Project Poster (30 points)
 
-**Create and have printed a 36 inch by 48 inch (portrait or landscape) poster describing your research project. PDF must be uploaded to your repository by 1:30p on Monday, June 3.**
+**Create and have printed a 36 inch by 48 inch or 24 by 36 inch (portrait or landscape) poster describing your research project. PDF must be uploaded to your repository by 1:30p on Monday, June 3.**
 
 You will present your poster during the MACSS poster session on Wednesday, June 5, from 12:30-2:30pm in Ida Noyes Hall.
 
@@ -42,10 +42,12 @@ You will present your poster during the MACSS poster session on Wednesday, June 
 
 ## Where to print the poster
 * John Crerar Library, [PSD Graphic Arts](http://graphicarts.uchicago.edu/)
+    * Around $50 for a 24 x 36 inch non-laminated poster
     * Around $85 for a 36 x 48 inch non-laminated poster
     * 24 hour turnaround
     * Cash or check only
 * Fedex Office at 1315 E 57th St.
+    * $44 for 24 x 36 inch non-laminated poster
     * $87 for 36 x 48 inch non-laminated poster
     * 24 hour turnaround
 * Unfortunately, the Booth printing shop is no longer

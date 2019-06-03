@@ -86,7 +86,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May 29 | W | Effective presentations, poster, slides | [Notes](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/poster.md)  |  |
 | Jun  3 | M | Markov and hidden Markov models | [Notebk](Notebooks/Markov/Markov.ipynb) | [PS 4](Assignments/PS4/PS4.pdf) |
 | Jun  5 | W | In-class poster presentations |  | [Poster](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/poster.md) |
-| Jun  12 | W | Final papers due at 11:59pm |  | Papers due |
+| Jun  12 | W | Final papers due at 11:59pm |  | [Papers due](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/final-paper.md) |
 
 
 ## References and Readings
